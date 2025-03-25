@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/physics-cheatsheet/static/css/main.e6c13ad2.css",
-    "main.js": "/physics-cheatsheet/static/js/main.41db4500.js",
+    "main.js": "/physics-cheatsheet/static/js/main.c8175fd1.js",
     "static/js/453.d79e2271.chunk.js": "/physics-cheatsheet/static/js/453.d79e2271.chunk.js",
     "index.html": "/physics-cheatsheet/index.html",
     "main.e6c13ad2.css.map": "/physics-cheatsheet/static/css/main.e6c13ad2.css.map",
-    "main.41db4500.js.map": "/physics-cheatsheet/static/js/main.41db4500.js.map",
+    "main.c8175fd1.js.map": "/physics-cheatsheet/static/js/main.c8175fd1.js.map",
     "453.d79e2271.chunk.js.map": "/physics-cheatsheet/static/js/453.d79e2271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.41db4500.js"
+    "static/js/main.c8175fd1.js"
   ]
 }
